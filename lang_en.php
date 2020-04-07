@@ -8,7 +8,7 @@ define("_ADDRESS", "Address");
 define("_SUBMIT", "Submit");
 
 
-define("_CONTACTUS", "contact us");
+define("_CONTACTUS", "Contact Us");
 define("_LOGIN", "Login");
 define("_SIGNUP", "Sign Up");
 define("_OURSERVICES", "Our Services");
@@ -27,7 +27,7 @@ define("_TRANSACTIONS", "Transactions");
 define("_ACCOUNT", "Account");
 define("_LOGOUT", "Logout");
 
-define("BLOODGROUP","Blood Group");
+define("_BLOODGROUP","Blood Group");
 define("_AMOUNTAVAILABLE","Amount Available");
 define("_AMOUNT","Amount");
 
