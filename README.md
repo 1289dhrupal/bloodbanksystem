@@ -1,6 +1,6 @@
 # bloodbanksystem
 ```
-$y cd htdocs/Projects/bloodbanksystem-master
+$ cd htdocs/Projects/bloodbanksystem-master
 $ heroku login
 $ git init
 $ git add .
