@@ -1,4 +1,4 @@
-# bloodbanksystem
+# BloodBankSystem
 ## Steps for setup
 Install Xampp
 
@@ -32,5 +32,5 @@ $ git add .
 $ git commit -am "sql commit"
 $ git push heroku master
 ```
-### Steps for finding [clearDB host, password, user and DBname](https://scotch.io/@phalconVee/using-mysql-on-heroku).
+### Steps for [finding clearDB host, password, user and DBname](https://scotch.io/@phalconVee/using-mysql-on-heroku).
 ### Working app can be found at [BloodBankSystem](https://powerful-ridge-48280.herokuapp.com/index.php).
