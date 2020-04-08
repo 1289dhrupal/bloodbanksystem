@@ -31,6 +31,6 @@ Install Xampp
 5. goto localhost\bloodbanksystem-master to access the site
 6. to host the site on cloud follow the links below
 
-##  Steps for [Cloud Hosting](https://scotch.io/@phalconVee/deploying-a-php-and-mysql-web-app-with-heroku).
-## Steps for finding [clearDB host, password, user and DBname] (https://scotch.io/@phalconVee/using-mysql-on-heroku).
-## Working app can be found at [BloodBankSystem](https://powerful-ridge-48280.herokuapp.com/index.php).
+### Steps for [Cloud Hosting](https://scotch.io/@phalconVee/deploying-a-php-and-mysql-web-app-with-heroku).
+### Steps for finding [clearDB host, password, user and DBname](https://scotch.io/@phalconVee/using-mysql-on-heroku).
+### Working app can be found at [BloodBankSystem](https://powerful-ridge-48280.herokuapp.com/index.php).
