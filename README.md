@@ -15,3 +15,9 @@ $ git add .
 $ git commit -am "sql commit"
 $ git push heroku master
 ```
+
+## Steps for cloud hosting 
+https://scotch.io/@phalconVee/deploying-a-php-and-mysql-web-app-with-heroku
+
+## steps to find clearDB host, password, user and DBname
+https://scotch.io/@phalconVee/using-mysql-on-heroku
