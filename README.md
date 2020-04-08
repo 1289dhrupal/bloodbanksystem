@@ -1,5 +1,5 @@
 # bloodbanksystem
----
+'''
 # cd htdocs/Projects/bloodbanksystem-master
 # heroku login
 # git init
@@ -14,4 +14,4 @@ Enter password: ********
 # git add .
 # git commit -am "sql commit"
 # git push heroku master
----
+'''
