@@ -21,6 +21,8 @@ Install Xampp
 2. Download this file in C:\xampp\htdocs folder and "extract here"
 3. goto localhost\bloodbanksystem-master to open the php files
 4. goto localhost\phpmyadmin to import sql file
+
+
   4.1. on the left side there is list of database select "New"
   4.2. name the database "users" and scroll down and click "go" (creates a database named users)
   4.3. seltec your database from the list.
