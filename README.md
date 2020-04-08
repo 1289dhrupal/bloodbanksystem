@@ -1,20 +1,4 @@
 # bloodbanksystem
-```
-$ cd htdocs/Projects/bloodbanksystem-master
-$ heroku login
-$ git init
-$ git add .
-$ git commit -am"first commit"
-$ heroku create
-$ git push heroku master
-$ heroku addons:add cleardb:ignite
-$ mysql -u b8cc36236ace06 -h us-cdbr-iron-east-01.cleardb.net -p heroku_923e2c6e4de1689 < users.sql
-Enter password: ********
-$ composer update
-$ git add .
-$ git commit -am "sql commit"
-$ git push heroku master
-```
 ## Steps for setup
 Install Xampp
 
@@ -32,5 +16,21 @@ Install Xampp
 6. to host the site on cloud follow the links below
 
 ### Steps for [Cloud Hosting](https://scotch.io/@phalconVee/deploying-a-php-and-mysql-web-app-with-heroku).
+```
+$ cd htdocs/Projects/bloodbanksystem-master
+$ heroku login
+$ git init
+$ git add .
+$ git commit -am"first commit"
+$ heroku create
+$ git push heroku master
+$ heroku addons:add cleardb:ignite
+$ mysql -u b8cc36236ace06 -h us-cdbr-iron-east-01.cleardb.net -p heroku_923e2c6e4de1689 < users.sql
+Enter password: ********
+$ composer update
+$ git add .
+$ git commit -am "sql commit"
+$ git push heroku master
+```
 ### Steps for finding [clearDB host, password, user and DBname](https://scotch.io/@phalconVee/using-mysql-on-heroku).
 ### Working app can be found at [BloodBankSystem](https://powerful-ridge-48280.herokuapp.com/index.php).
