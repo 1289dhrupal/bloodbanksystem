@@ -29,11 +29,17 @@ Install Xampp
 
 
 4. goto localhost\phpmyadmin to import sql file
+  
   4.1. on the left side there is list of database select "New"
+  
   4.2. name the database "users" and scroll down and click "go" (creates a database named users)
+  
   4.3. seltec your database from the list.
+  
   4.4. on the navigation bar above find "Import"
+  
   4.5. locate your database (for me its C:\xampp\htdocs\bloodbank-master\users.sql) and execute.
+  
   4.6  now your database is linked
 
 
